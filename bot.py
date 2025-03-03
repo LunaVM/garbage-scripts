@@ -4,7 +4,7 @@ import os
 import subprocess
 
 # Your bot's token
-TOKEN = 'MTM0MzM4NTA4NDI0MTM3OTM0OQ.GdGqjn.2A9CzeHJpuEAJ61fmAMwQ5JfFePss7CQvJY-OM'
+TOKEN = ',,,'
 OWNER_IDS = [492883063542513675, 1257791775523868735]  # List of owner IDs
 
 # Initialize bot
