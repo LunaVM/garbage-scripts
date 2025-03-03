@@ -10,6 +10,7 @@ OWNER_IDS = [492883063542513675, 1257791775523868735]  # List of owner IDs
 # Initialize bot
 intents = discord.Intents.default()
 intents.members = True  # Enable member join event
+intents.message_content = True # Enable message content event for commands
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Welcoming new users
